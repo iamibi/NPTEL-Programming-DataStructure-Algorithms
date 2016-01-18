@@ -1,0 +1,14 @@
+Answers to the quiz 1 of week 1
+
+1. 11
+2. 97
+3. 9,19
+4. The program would print NO
+5. 11
+6. 13
+7. 12
+8. 1
+9. 7
+10. printf ("\n%d", a)
+11. 9
+12. AABACA
