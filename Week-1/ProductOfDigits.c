@@ -1,3 +1,7 @@
+/*
+ * This program is very basic. Just divide the given number with 10 until
+ * it becomes 0 and multiply the number to the result modulo 10.
+*/
 #include <stdio.h>
 
 int main()
