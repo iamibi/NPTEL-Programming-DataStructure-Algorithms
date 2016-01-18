@@ -10,6 +10,6 @@ int main()
         prod *= n % 10;
         n /= 10;
     }
-    printf ("%ld\n", prod);
+    printf ("%ld", prod);
     return 0;
 }
