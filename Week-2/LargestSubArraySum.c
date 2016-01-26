@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//This function calculates the maximum of two numbers
 int FindMax(int x, int y)
 {
     if (x > y)
@@ -18,10 +19,16 @@ int main()
     for (i = 0; i < n; i++)
         scanf ("%d", &arr[i]);
 
+    //Set the maximum sum to the first element of the array
     maxVal = MAX = arr[0];
+    
+    //repeat for finding the maximum sum
     for (i = 1; i < n; i++)
     {
+        //is the maximum value the current value or an addition of previous maxVal and current array value
         maxVal = FindMax(arr[i], maxVal + arr[i]);
+        
+        //set the final maximum value to maximum between maxVal and current MAX
         MAX = FindMax(MAX, maxVal);
     }
 
