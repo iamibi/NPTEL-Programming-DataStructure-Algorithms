@@ -1,3 +1,10 @@
+/*
+ * This program calculates the maximum sum of the contiguous sub array possible.
+ * It takes in the array value and sets the maxVal and MAX to the array's first value.
+ * And then we iterate through the array, taking in the new maximum value in maxVal,
+ * and updating the original MAX, if necessary.
+*/
+
 #include <stdio.h>
 
 //This function calculates the maximum of two numbers
