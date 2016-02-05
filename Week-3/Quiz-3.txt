@@ -1,0 +1,24 @@
+Solutions to Quiz 3 Problems
+
+1. The stack would overflow and eventually the program will be killed by the operating system.
+2. None of the above
+3. India India
+4. b^a
+5. O(n)
+6. yes
+7. O(log n)
+8. None of the above
+9. xyz(int *A[])
+   xyz(int A[][10])
+10. line 9
+11. Calculates Greatest Common Divisor (GCD)
+12. Hello
+13. 11
+14. O(n^2)
+15. n
+16. ADSA
+17. Integer part of logarithm of n base 2
+18. Private testcases only
+19. only when the deadline is over
+20. Check the current forum and search with keywords that match the issue I have.
+    I will patiently read how it was resolved and only post on the forum if that does not work.
