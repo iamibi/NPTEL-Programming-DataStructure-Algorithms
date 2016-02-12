@@ -1,0 +1,17 @@
+Solutions of Quiz 4
+
+1. N
+2. T(n) = O(n*logn)
+3. O(n)
+4. O(1)
+5. O(n^2 logn)
+6. 5
+7. Insertion Sort
+8. O(logn)
+9. 4
+10. Yes
+11. O(1)
+12. O(n logn)
+13. T(n) = 2T(n/2) + O(n)
+14. 512
+15. 893
