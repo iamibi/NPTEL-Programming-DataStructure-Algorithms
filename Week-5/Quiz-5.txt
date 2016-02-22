@@ -1,0 +1,22 @@
+Solutions to the Quiz 5
+
+1. Use of a ADT is dependent upon the implementation
+2. Arity of the operators cannot be changed
+3. union
+4. Find the node where two list intersects and return NULL if there is no intersection
+5. For push( ) operation, new nodes are inserted at the head of linked list. For  pop( ) operation, nodes are removed from head 
+6. abc^/bc**de*-
+7. (REAR+1) mod n == FRONT
+8. tmp1.a==tmp2.a
+9. FIFO
+10. Insertions and deletions anywhere
+11. int *A = new int [5];
+12. print values in linked list in reverse order 
+13. Incorrect because one cannot add two struct variables directly
+14. 5 3 2 1 2
+15. 5
+16. head->pt.x
+17. There are private test cases which are not exposed
+    Only upon passing all the private test cases, I can get 100%. Even if one test case fails, I will get less than 100%
+18. I will read the posts others have made. If I understand and read the other posts, I may not have to even create a new post
+    I will read the FAQ section in the left side of the panel (below weekly links) and understand the issues fully before posting
