@@ -8,19 +8,19 @@
  *
 */
 
-#include <cmath>
+#include <math.h>
 
 int find(int *, int, int);
 int left(int);
 int right(int);
-
-//returns true if sum of every sub-tree are equal
+  
 bool isValueBalanced(int tree[], int count)
 {
     int sum_l = 0, sum_r = 0, level = ceil(log2(count + 1)) - 1, i;
 
-    for (i = 0; i < level; i++)
+  	for (i = 0; i < level; i++)
     {
+
         sum_l = find(tree, count, left(i));
         sum_r = find(tree, count, right(i));
 
