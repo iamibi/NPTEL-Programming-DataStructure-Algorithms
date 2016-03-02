@@ -1,0 +1,18 @@
+Solutions to the Quiz in week 6
+
+1. Adjacency list representation
+2. 5
+3. 2
+4. 2,3,4,9,12,10,5
+5. Postorder
+6. Find depth of the tree
+7. root->data + SumElements(root->left) + SumElements(root->right)
+8. Error in both lines P and Q 
+9. 2^h and 2^(h+1)-1 
+10. O(nlogk)
+11. 12
+12. B has no left child
+13. s will contain only el
+14. tower of hanoi and printer spooler
+15. Prints first n Fibonacci numbers
+16. abc × + def ^ ^ -
