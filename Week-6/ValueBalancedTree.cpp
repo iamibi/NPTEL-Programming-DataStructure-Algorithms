@@ -25,9 +25,9 @@ bool isValueBalanced(int tree[], int count)
         sum_r = find(tree, count, right(i));
 
         if (sum_l != sum_r)
-            return false;
+            return 0;
     }
-    return true;
+    return 1;
 }
 
 int find(int *tree, int n, int x)
