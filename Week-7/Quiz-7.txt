@@ -1,0 +1,15 @@
+Solution for quiz 7 of week 7
+
+1. Approach 2
+2. m[i,j] = mini≤k<j(m[i,k] + m[k+1,j] + pi-1 pk pj)
+3. x = 120 and y = 88
+4. 158
+5. O(n) & O(n)
+6. summation (2*T[i] * T[i - 1])
+7. Mink { T( j - Vk ) } + 1 
+8. 3, 2
+9. A & B
+10. 5
+11. 38
+12. 9
+13. No
