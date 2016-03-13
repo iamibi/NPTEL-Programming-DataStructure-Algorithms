@@ -1,0 +1,18 @@
+Solutions for Quiz 8
+
+1. O(E logV)
+2. O(E+V^2)
+3. Telecommunications company laying cable to a new neighborhood.
+4. 3
+5. Graph G has multiple distinct MST of cost n-1
+6. 71
+7. O(ElogV)
+8. 995
+9. 79, 89 and 99 hash to the same value
+10. 10
+11. 2
+12. No
+13. Yes
+14. No
+15. i^3 mod 10
+16. b & c
